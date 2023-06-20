@@ -1,0 +1,60 @@
+.maincontainer1
+{
+background-color: rgb(181, 197, 192);
+}
+
+.top
+{
+display: inline-block;
+background-color: rgb(116, 82, 148);
+margin-top: px;
+width: 15%;
+height: 25%;
+}
+.set1
+{
+background-color: rgb(98, 175, 34);
+}
+
+.set3
+{
+background-color: rgb(98, 175, 34);
+margin-right: 25px;
+margin-top: 52px;
+}
+
+.image1
+{
+ float: right;
+ margin-top: -225px;
+
+}
+.paraT1
+{
+color:darkblue;
+padding-left: 25px;
+
+}
+.topic1
+{
+    color: rgb(231, 9, 9);
+    margin-left: 20px;
+    
+}
+
+.btton
+{
+    background-color: black;
+    color: aqua;
+    padding: 10px;
+    border-radius: 15px;
+    margin-left: 450px;
+
+}
+
+.maincontainer2
+{
+margin-top: 165px;
+width: 135%;
+
+}

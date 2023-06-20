@@ -1,0 +1,11 @@
+.topic{
+   display: grid;
+   justify-content: center;
+}
+.para{
+    color:#7b8794;
+}
+.scam{
+   color: #1f2933;
+   font-style: italic;
+}

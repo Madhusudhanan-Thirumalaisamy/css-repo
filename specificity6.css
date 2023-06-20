@@ -1,0 +1,12 @@
+.black-text{
+    color: black;
+}
+.green-text{
+    color:green;
+}
+.orangeText{
+    color: orange;
+}
+.black-text{
+    color: black !important;
+}

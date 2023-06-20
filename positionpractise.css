@@ -1,0 +1,24 @@
+p{
+    padding: 10px;
+}
+   
+.container{
+    display: flex;
+}
+
+
+.para1{
+    background-color: aqua;
+    flex: 2;
+    order: 3 ;
+}
+.para2{
+    background-color: blue;
+    flex: 1;
+}
+.para3{
+  
+    background-color: brown;
+   flex: 3;
+}
+

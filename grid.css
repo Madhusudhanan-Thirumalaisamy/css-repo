@@ -1,0 +1,65 @@
+body{
+    background-color: blue;
+}
+
+/* .container{
+     display: grid;
+     grid-template-columns:30% 30% 30%;
+     gap: 20px;
+    
+}
+
+.para{
+    padding:1rem;
+    background-color: rgb(218, 138, 138);
+    color: beige;
+}
+
+.box{
+    background-color: chartreuse;
+    color: aliceblue;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.outerbox{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 10px;
+} */
+
+.layout{
+    display: grid;
+    background-color: aliceblue;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-areas: 
+    "h h h"
+    "sb1 m sb2" 
+    "f f f";
+
+}
+
+.header{
+    grid-area: h;
+}
+.sss{
+    grid-area: sb1;
+}
+.mmmm{
+    grid-area: m;
+}
+.sssd{
+    grid-area: sb2;
+}
+.fff{
+    grid-area: f;
+}
+
+
+.layout div{
+    display: grid;
+    border: 2px solid;
+    justify-content: center;
+
+}

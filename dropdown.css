@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.task 
+{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+
+}
+ 
+a{
+    padding: 15px;
+    text-decoration: none;
+    background-color: rgb(84, 174, 197);
+    color: aqua;
+    display: block;
+}
+a:hover{
+    background-color:rgb(238, 167, 167);
+}
+.Tutorial
+{ 
+  
+     list-style-type: none;
+    display: none;
+    
+} 
+.task li:nth-child(2):hover .Tutorial{
+    display: block;
+}
+
+.web
+{
+    list-style-type: none;
+    transform: translateX(108px) translateY(-48px);
+    display: none;
+
+}
+.Tutorial li:nth-child(3):hover .web{
+    display:block;
+}
+
+
+

@@ -1,0 +1,82 @@
+body
+{
+    background-image: url('https://cdn.pixabay.com/photo/2013/11/28/10/36/road-220058_960_720.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 115px auto;
+}
+
+.formtable
+{
+    width: 500px;
+    margin: 100px auto;
+    padding: 0.5px;
+    font-size: 20px;
+    background-color: rgba(0, 0, 0,0.5);
+    color: white;
+}
+.head
+{
+    text-align: center;
+    background-color:rgba(0, 0, 0,0.5);
+    width: 500px;
+    margin-top: -45px;
+}
+.namelabel
+{
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+
+.float
+{
+    text-align: right;
+}
+
+.fn{
+    margin-left: 55px;
+}
+.ln
+{
+    margin-left: 90px;
+}
+input[type="text"]
+{
+    width: 250px;
+    margin-bottom: 20px;
+}
+/*input[type="number"]
+{
+    width: 250px;
+}*/
+.area{
+    margin-left: 79px;
+}
+.Phone
+{
+    margin-left: 100px;
+    margin-bottom: 25px;
+}
+select{
+    width: 55%;
+    margin-left: 20px;
+}
+option{
+    text-align: center;
+
+}
+button{
+    width: 30%;
+    margin-left: 25px;
+    margin-bottom: 20px;
+    background-color: aqua;
+    padding: 9px;
+}
+.system
+{
+    margin-left: 30px;
+}
+.Subject
+{
+    margin-left: 5px;
+}

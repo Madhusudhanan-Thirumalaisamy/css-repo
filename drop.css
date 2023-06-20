@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.main
+{
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+}
+a{
+    text-decoration: none; 
+    background-color: rgb(34, 228, 212);
+    display: block;
+    padding: 10px;
+
+}
+
+a:hover
+{ 
+     background-color: rgb(201, 22, 22);
+
+
+}
+
+.LIFESTYLE{
+   list-style-type: none;
+   display: none;
+
+}    
+
+.main li:nth-child(4):hover .LIFESTYLE
+{
+    display: block;
+
+}
+
+.scritsD{
+    list-style-type: none;
+    transform: translateX(176px) translateY(-43px);
+    display: none;
+}
+
+.LIFESTYLE li:nth-child(5):hover .scritsD{
+    
+    display: block;
+
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+    

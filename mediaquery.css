@@ -1,0 +1,457 @@
+@media only screen and (min-width:1000px)
+{
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+.overall
+{
+     background-image: url('https://wallpaperaccess.com/full/5651988.jpg');
+     height: 572px;
+     width: 100%;
+}
+
+.head
+{
+    color: rgb(229, 248, 242);
+    padding-left: 35px;
+    font-size: 40px;
+}
+.list
+{
+    color: aqua;
+}
+
+ul{
+    display: flex;
+    justify-content: end;
+    margin-top: -43px;
+}
+a{
+    color: white;
+}
+li
+{
+    padding: 20px;
+}
+
+.setup
+{
+    margin-top: 100px;
+    width: 400px;
+    margin-left: 35px;
+    color: rgb(229, 248, 242);
+}
+
+.btn
+{
+    margin-left: 35px;
+
+}
+
+.btn .b1
+{
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 60px;
+}
+
+
+.btn .b2
+{
+    margin-top: 20px;
+    background-color: rgb(11, 235, 67);
+    padding: 10px;
+    border-radius: 10px;
+}
+.serices
+{
+    margin-left: 550px;
+    margin-top: 200px;
+
+}
+.box
+{   
+    border: rgb(233, 142, 24) solid 2px;
+    width: 29%;
+    height: 10rem;
+    background-color: rgb(23, 219, 160);
+    border-radius: 20%;
+}
+.box-1 
+{
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  flex-direction: column;
+  gap:1rem;
+  margin-top: 50px;
+  margin-left: 20px;
+}
+
+.box-2 
+{
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  flex-direction: column;
+  gap:1rem;
+  margin-top:-165px;
+  margin-left: 450px;
+}
+
+.box-3
+{
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  flex-direction: column;
+  gap:1rem;
+  margin-top:-165px;
+  margin-left: 900px;
+}
+
+.box-4
+{
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  flex-direction: column;
+  gap:1rem;
+  margin-left: 20px;
+  margin-top: 25px;
+}
+
+
+.box-5
+{
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  flex-direction: column;
+  gap:1rem;
+  margin-top: -160px;
+  margin-left: 450px;
+}
+
+.box-6
+{
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  flex-direction: column;
+  gap:1rem;
+  margin-left: 900px;
+  margin-top: -160px;
+ 
+}
+}
+
+@media screen and (max-width: 600px)
+{
+  *{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+.overall
+{
+     background-image: url('https://wallpaperaccess.com/full/5651988.jpg');
+     height: 572px;
+     width: 100%;
+}
+
+.head
+{
+    color: rgb(229, 248, 242);
+    padding-left: 35px;
+    font-size: 40px;
+}
+.list
+{
+    color: aqua;
+}
+
+ul{
+    display: flex;
+    justify-content: end;
+    margin-top: -43px;
+}
+a{
+    color: white;
+}
+li
+{
+    padding: 20px;
+}
+
+.setup
+{
+    margin-top: 100px;
+    width: 400px;
+    margin-left: 35px;
+    color: rgb(229, 248, 242);
+}
+
+.btn
+{
+    margin-left: 35px;
+
+}
+
+.btn .b1
+{
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 60px;
+}
+
+
+.btn .b2
+{
+    margin-top: 20px;
+    background-color: rgb(11, 235, 67);
+    padding: 10px;
+    border-radius: 10px;
+}
+.serices
+{
+    margin-left: 550px;
+    margin-top: 200px;
+
+}
+.box
+{   
+    border: rgb(233, 142, 24) solid 2px;
+    width: 29%;
+    height: 10rem;
+    background-color: rgb(23, 219, 160);
+    border-radius: 20%;
+}
+.box-1 
+{
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  flex-direction: column;
+  gap:1rem;
+  margin-top: 50px;
+  margin-left: 20px;
+}
+
+.box-2 
+{
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  flex-direction: column;
+  gap:1rem;
+  margin-top:-165px;
+  margin-left: 450px;
+}
+
+.box-3
+{
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  flex-direction: column;
+  gap:1rem;
+  margin-top:-165px;
+  margin-left: 900px;
+}
+
+.box-4
+{
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  flex-direction: column;
+  gap:1rem;
+  margin-left: 20px;
+  margin-top: 25px;
+}
+
+
+.box-5
+{
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  flex-direction: column;
+  gap:1rem;
+  margin-top: -160px;
+  margin-left: 450px;
+}
+
+.box-6
+{
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  flex-direction: column;
+  gap:1rem;
+  margin-left: 900px;
+  margin-top: -160px;
+ 
+}
+}
+
+@media only screen and (max-width:412px)
+{
+    *{
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+        text-decoration: none;
+    }
+    .overall
+    {
+         background-image: url('https://wallpaperaccess.com/full/5651988.jpg');
+         height: 900px;
+         width: 1200px;
+    }
+    
+    .head
+    {
+        color: rgb(229, 248, 242);
+        padding-left: 35px;
+        font-size: 40px;
+    }
+    
+    ul{
+        position: absolute;
+        margin-left: 800px;
+        margin-top: -43px;
+    }
+    a{
+        color: white;
+    }
+    li
+    {
+        padding: 20px;
+    }
+    
+    .setup
+    {
+        margin-top: 100px;
+        width: 200px;
+        margin-left: 35px;
+        color: rgb(229, 248, 242);
+        padding: 10px;
+    }
+    
+    .btn
+    {
+        margin-left: 35px;
+    
+    }
+    
+    .btn .b1
+    {
+        background-color: aqua;
+        padding: 10px;
+        border-radius: 10px;
+    }
+    
+    
+    .btn .b2
+    {
+        margin-top: 20px;
+        background-color: rgb(11, 235, 67);
+        padding: 10px;
+        border-radius: 10px;
+    }
+
+    .serices
+{
+    margin-left: 550px;
+    margin-top: 200px;
+
+}
+.box
+{   
+    border: solid 2px;
+    width: 29%;
+    height: 10rem;
+    background-color: rgb(23, 219, 160);
+    border-radius: 20%;
+}
+.box-1 
+{
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  flex-direction: column;
+  gap:1rem;
+  margin-top: 50px;
+  margin-left: 20px;
+}
+
+.box-2 
+{
+  display: flex;
+  margin-left: 450PX;
+  justify-content: center;
+  align-items: center; 
+  flex-direction: column;
+  gap:1rem;
+  margin-top:-165px;
+}
+
+.box-3
+{
+  display: flex;
+  margin-left: 450PX;
+  justify-content: center;
+  align-items: center; 
+  flex-direction: column;
+  gap:1rem;
+  margin-top:-165px;
+  margin-left: 900px;
+}
+
+.box-4
+{
+  display: flex;
+  margin-left: 450PX;
+  justify-content: center;
+  align-items: center; 
+  flex-direction: column;
+  gap:1rem;
+  margin-left: 20px;
+  margin-top: 25px;
+}
+
+
+.box-5
+{
+  display: flex;
+  margin-left: 450PX;
+  justify-content: center;
+  align-items: center; 
+  flex-direction: column;
+  gap:1rem;
+  margin-top: -160px;
+}
+
+.box-6
+{
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  flex-direction: column;
+  gap:1rem;
+  margin-left: 900px;
+  margin-top: -160px;
+ 
+}
+
+
+    
+}

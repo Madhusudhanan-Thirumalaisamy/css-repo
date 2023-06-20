@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Genos:wght@600&family=Montserrat&family=Poppins&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.FONT{
+    color: rgb(248, 244, 244);
+}
+.FONT-NAME{
+    color:rgb(238, 236, 243);
+    font-size: 50px;
+}
+
+.set1{
+   background-image: url('9c7dd27d-3f4b-4cd5-8698-f6f77eb3eb89.jpeg');
+   background-size: cover;
+   overflow: hidden;
+   height:630px;
+}
+.about{
+    background-color: rgb(27, 28, 29);
+}
+
+li{
+    color: rgb(161, 22, 87);
+}
+.edu{
+    background-color:rgb(27, 28, 29);
+}
+

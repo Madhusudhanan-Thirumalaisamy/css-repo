@@ -1,0 +1,68 @@
+/*screenbackground setup*/
+body{
+    background-image:url("https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+/*font and color setting for form inside div tag*/
+.formtable
+{
+    width: 300px;
+    margin: 115px auto;  
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    padding: 50px;
+    font-size: 10px;
+}
+/*to locate the forget password sentence in link */
+.aa
+{
+    float: right;
+}
+/*set textbox size of username */
+.designusername
+{
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+/*to set spacing in between the checkbox from left of the formtable inside and space from bottom*/
+.checkbox
+{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+/*for text align for h2 heading */
+.formtable h2
+{
+    text-align: center;
+}
+/*for text align for h3 heading */
+.formtable h3
+{
+    text-align: center;
+}
+/*for text align for h6 heading */
+.formtable h6
+{
+    text-align: center;
+}
+    /*for aligning backgourd color for button box*/
+.buttonclass
+{
+    width: 250px;
+    background-color:black;
+    color: white;
+    margin-left: 20px;
+}
+/*for size of username box*/
+input[type="text"]
+{
+    width: 250px;
+}
+/*for size of password box*/
+input[type="password"]
+{
+    width: 250px;
+}

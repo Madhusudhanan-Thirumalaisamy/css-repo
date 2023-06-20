@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Roboto:wght@300&family=Sigmar&display=swap');
+ 
+.card-title
+{
+   font-family: Bree Serif;
+   color: #323f4b;
+}
+
+.card-body
+{
+ background-color: #f6c56e;   
+}
+.card-text
+{
+  font-family: Roboto Serif;
+  color: #323f4b;  
+}
+
+.btn
+ {
+   background-color: #ffffff;
+   color: #323f4b;
+}

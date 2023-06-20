@@ -1,0 +1,88 @@
+.topic1
+{
+    color: green;
+    text-align: center;
+}
+
+.topic2
+{ 
+    color: rgb(25, 12, 206);
+    text-align: center;
+    font-size: 20px;
+
+}
+
+@keyframes greek{
+    from{
+        transform: translateX(800px);
+    }
+    to{
+        transform: translateX(10px);
+    }
+}
+
+.ease
+{
+    border: chocolate solid ;
+    width: 320px;
+    background-color: aqua;
+    padding: 10px;
+    margin-top: 4px;
+    animation: greek;
+    animation-duration:5s;
+    animation-timing-function:ease;
+}
+
+
+.linear
+{
+    border: chocolate solid ;
+    width: 320px;
+    background-color: aqua;
+    padding: 10px;
+    margin-top: 4px;
+    animation: greek;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+}
+
+.ease-in
+{
+    border: chocolate solid ;
+    width: 320px;
+    background-color: aqua;
+    padding: 10px;
+    margin-top: 4px;
+    animation: greek;
+    animation-timing-function:ease-in;
+    animation-duration:5s;
+    
+}
+
+.ease-out
+{
+    border: chocolate solid ;
+    width: 320px;
+    background-color: aqua;
+    padding: 10px;
+    margin-top: 4px;
+    animation: greek;
+    animation-timing-function:ease-out;
+    animation-duration:5s;
+}
+
+.ease-in-out
+{
+    border: chocolate solid ;
+    width: 320px;
+    background-color: aqua;
+    padding: 10px;
+    margin-top: 4px;
+    animation: greek;
+    animation-timing-function:ease-in-out;
+    animation-duration:5s;
+}
+
+
+
+
